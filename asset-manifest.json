@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pizzafront/static/css/main.68841a8d.css",
+    "main.js": "/pizzafront/static/js/main.c1cbed24.js",
+    "static/js/787.cb12ecc9.chunk.js": "/pizzafront/static/js/787.cb12ecc9.chunk.js",
+    "index.html": "/pizzafront/index.html",
+    "main.68841a8d.css.map": "/pizzafront/static/css/main.68841a8d.css.map",
+    "main.c1cbed24.js.map": "/pizzafront/static/js/main.c1cbed24.js.map",
+    "787.cb12ecc9.chunk.js.map": "/pizzafront/static/js/787.cb12ecc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68841a8d.css",
+    "static/js/main.c1cbed24.js"
+  ]
+}
